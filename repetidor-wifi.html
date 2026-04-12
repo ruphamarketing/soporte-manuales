@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Configuración: Repetidor Wi-Fi no abre página de inicio | Pix-Link</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-black text-zinc-400 font-sans">
+
+    <header class="p-6 border-b border-zinc-800">
+        <a href="index.html" class="text-amber-500 font-bold tracking-widest text-xl uppercase">Soporte Lab</a>
+    </header>
+
+    <main class="max-w-4xl mx-auto p-6">
+        <section class="mb-12">
+            <h2 class="text-3xl text-white font-bold mb-4 uppercase tracking-tighter">Repetidor Wi-Fi: Acceso al Panel 192.168.1.254</h2>
+            <p class="text-lg">Guía para entrar a la configuración de repetidores genéricos cuando la dirección IP no carga.</p>
+        </section>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            
+            <div class="bg-zinc-900 p-6 rounded-2xl border border-zinc-800">
+                <h3 class="text-amber-500 font-bold mb-2">01. Conexión Directa</h3>
+                <p>No intentes configurar por Wi-Fi si falla. Conectá un cable de red (RJ45) directo del repetidor a una computadora. Es el método más estable.</p>
+            </div>
+
+            <div class="bg-zinc-900 p-6 rounded-2xl border border-zinc-800">
+                <h3 class="text-amber-500 font-bold mb-2">02. IP Estática</h3>
+                <p>Si la página no abre, configurá la IP de tu placa de red manualmente a 192.168.1.10. Esto fuerza la comunicación con el equipo.</p>
+            </div>
+
+            <div class="bg-zinc-900 p-6 rounded-2xl border border-zinc-800 md:col-span-2">
+                <h3 class="text-amber-500 font-bold mb-2">03. Modo Repetidor vs AP</h3>
+                <p>Asegurate de elegir "Repeater Mode". Escaneá las redes, seleccioná la tuya y poné la contraseña exacta. <strong>Dato:</strong> Si el nombre de tu Wi-Fi tiene espacios o eñes, algunos repetidores fallan.</p>
+            </div>
+
+        </div>
+
+        <div class="mt-12 p-8 border-2 border-dashed border-zinc-800 rounded-3xl text-center">
+            <p class="text-zinc-600 italic">¿Se desconecta seguido? [Próximamente: Guía de ubicación ideal de antenas]</p>
+        </div>
+    </main>
+
+    <footer class="p-12 text-center text-xs text-zinc-600">
+        <a href="index.html" class="hover:text-amber-500">Volver al Inicio</a> | © 2026 Soporte Lab
+    </footer>
+
+</body>
+</html>
