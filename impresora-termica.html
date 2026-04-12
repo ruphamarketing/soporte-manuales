@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Configuración: Impresora Térmica Bluetooth no imprime | Guía Paso a Paso</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-black text-zinc-400 font-sans">
+    <header class="p-6 border-b border-zinc-800"><a href="index.html" class="text-amber-500 font-bold tracking-widest text-xl uppercase">Soporte Lab</a></header>
+    <main class="max-w-4xl mx-auto p-6">
+        <section class="mb-12">
+            <h2 class="text-3xl text-white font-bold mb-4 uppercase tracking-tighter">Impresora Térmica: Error de Vinculación Bluetooth</h2>
+            <p class="text-lg">Solución para impresoras de 58mm y 80mm que aparecen conectadas pero no imprimen desde el celular.</p>
+        </section>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="bg-zinc-900 p-6 rounded-2xl border border-zinc-800">
+                <h3 class="text-amber-500 font-bold mb-2">01. El PIN genérico</h3>
+                <p>La mayoría usa <strong>0000</strong> o <strong>1234</strong>. Si falla, probá con el código que figura en el ticket de autotest (presioná 'Feed' mientras encendés la impresora).</p>
+            </div>
+            <div class="bg-zinc-900 p-6 rounded-2xl border border-zinc-800">
+                <h3 class="text-amber-500 font-bold mb-2">02. App RawBT / ESC/POS</h3>
+                <p>Android no imprime directo por Bluetooth. Necesitás una app de "puente" como <strong>RawBT</strong>. Configurala como 'Servicio de impresión' para que aparezca en tus apps de ventas.</p>
+            </div>
+            <div class="bg-zinc-900 p-6 rounded-2xl border border-zinc-800 md:col-span-2">
+                <h3 class="text-amber-500 font-bold mb-2">03. Luz Roja 'Error'</h3>
+                <p>Si parpadea en rojo, verificá que el rollo de papel esté colocado hacia adelante. Si el papel está al revés, el sensor térmico no detecta nada y bloquea la impresión.</p>
+            </div>
+        </div>
+    </main>
+    <footer class="p-12 text-center text-xs text-zinc-600"><a href="index.html" class="hover:text-amber-500">Volver al Inicio</a> | © 2026 Soporte Lab</footer>
+</body>
+</html>
