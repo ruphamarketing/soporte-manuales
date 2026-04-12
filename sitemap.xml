@@ -1,54 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <url>
-    <loc>https://ruphamarketing.github.io/soporte-manuales/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/index.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/index.html"/>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://ruphamarketing.github.io/soporte-manuales/en/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/index.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/index.html"/>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://ruphamarketing.github.io/soporte-manuales/smartwatch-fitpro.html</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/smartwatch-fitpro.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/smartwatch-fitpro.html"/>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ruphamarketing.github.io/soporte-manuales/en/smartwatch-fitpro.html</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/smartwatch-fitpro.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/smartwatch-fitpro.html"/>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://ruphamarketing.github.io/soporte-manuales/auriculares-tws.html</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/auriculares-tws.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/earbuds-tws.html"/>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ruphamarketing.github.io/soporte-manuales/en/earbuds-tws.html</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/auriculares-tws.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/earbuds-tws.html"/>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://ruphamarketing.github.io/soporte-manuales/tvbox-reset.html</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/tvbox-reset.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/tvbox-reset.html"/>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ruphamarketing.github.io/soporte-manuales/en/tvbox-reset.html</loc>
-    <xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/tvbox-reset.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://ruphamarketing.github.io/soporte-manuales/index.html</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/index.html"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/index.html"/>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://ruphamarketing.github.io/soporte-manuales/en/index.html</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/index.html"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/index.html"/>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://ruphamarketing.github.io/soporte-manuales/smartwatch-fitpro.html</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/smartwatch-fitpro.html"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/smartwatch-fitpro.html"/>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ruphamarketing.github.io/soporte-manuales/en/smartwatch-fitpro.html</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/smartwatch-fitpro.html"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/smartwatch-fitpro.html"/>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ruphamarketing.github.io/soporte-manuales/auriculares-tws.html</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/auriculares-tws.html"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/earbuds-tws.html"/>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ruphamarketing.github.io/soporte-manuales/en/earbuds-tws.html</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/auriculares-tws.html"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/earbuds-tws.html"/>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ruphamarketing.github.io/soporte-manuales/tvbox-reset.html</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/tvbox-reset.html"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/tvbox-reset.html"/>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://ruphamarketing.github.io/soporte-manuales/en/tvbox-reset.html</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/tvbox-reset.html"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/tvbox-reset.html"/>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://ruphamarketing.github.io/soporte-manuales/repetidor-wifi.html</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/repetidor-wifi.html"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/wifi-repeater.html"/>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://ruphamarketing.github.io/soporte-manuales/en/wifi-repeater.html</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/repetidor-wifi.html"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/wifi-repeater.html"/>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://ruphamarketing.github.io/soporte-manuales/impresora-termica.html</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/impresora-termica.html"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/thermal-printer.html"/>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://ruphamarketing.github.io/soporte-manuales/en/thermal-printer.html</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/impresora-termica.html"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/thermal-printer.html"/>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://ruphamarketing.github.io/soporte-manuales/dashcam-error.html</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/dashcam-error.html"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/dashcam-error.html"/>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://ruphamarketing.github.io/soporte-manuales/en/dashcam-error.html</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/dashcam-error.html"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/dashcam-error.html"/>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://ruphamarketing.github.io/soporte-manuales/microfono-usb.html</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/microfono-usb.html"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/microfono-usb.html"/>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://ruphamarketing.github.io/soporte-manuales/en/microfono-usb.html</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://ruphamarketing.github.io/soporte-manuales/microfono-usb.html"/>
+<xhtml:link rel="alternate" hreflang="en" href="https://ruphamarketing.github.io/soporte-manuales/en/microfono-usb.html"/>
+<priority>0.7</priority>
+</url>
+</urlset>
